@@ -140,21 +140,22 @@
 	<link rel='stylesheet' id='theme-style-css'
 		href='./assets/css/theme-style-css.css' media='all' />
 	<link rel='stylesheet' id='elementor-gf-local-figtree-css'
-		href='https://demo.awaikenthemes.com/theme-medipro/wp-content/uploads/elementor/google-fonts/css/figtree.css?ver=1744844154'
+			href='./assets/css/elementor-gf-local-figtree-css.css'
 		media='all' />
 	<link rel='stylesheet' id='elementor-icons-shared-0-css'
-		href='https://demo.awaikenthemes.com/theme-medipro/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3'
+		href='./assets/css/elementor-icons-shared-0-css.css'
 		media='all' />
 	<link rel='stylesheet' id='elementor-icons-fa-solid-css'
-		href='https://demo.awaikenthemes.com/theme-medipro/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3'
+			href='./assets/css/elementor-icons-fa-solid-css.css'
 		media='all' />
 	<link rel='stylesheet' id='elementor-icons-ekiticons-css'
-		href='https://demo.awaikenthemes.com/theme-medipro/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticons.css?ver=3.7.3'
+		href='./assets/css/1.css'
 		media='all' />
 	<link rel='stylesheet' id='elementor-icons-fa-regular-css'
-		href='https://demo.awaikenthemes.com/theme-medipro/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3'
+		href='./assets/css/2.css'
 		media='all' />
-	<script src="https://demo.awaikenthemes.com/theme-medipro/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+		
+		<script src="https://demo.awaikenthemes.com/theme-medipro/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
 		id="jquery-core-js"></script>
 	<script src="https://demo.awaikenthemes.com/theme-medipro/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"
 		id="jquery-migrate-js"></script>
