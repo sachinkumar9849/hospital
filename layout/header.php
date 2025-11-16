@@ -54,64 +54,63 @@
 	</style>
 
 	<link rel='stylesheet' id='contact-form-7-css'
-		href='https://demo.awaikenthemes.com/theme-medipro/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.2'
+		href='./assets/css/style1.css'
 		media='all' />
+
 	<link rel='stylesheet' id='elementor-icons-css'
-		href='https://demo.awaikenthemes.com/theme-medipro/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.44.0'
+		href='./assets/css/elementor-icons-css.css'
 		media='all' />
 	<link rel='stylesheet' id='elementor-frontend-css'
-		href='https://demo.awaikenthemes.com/theme-medipro/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.32.3'
+		href='./assets/css/elementor-frontend-css.css'
 		media='all' />
 
 
 	<link rel='stylesheet' id='e-animation-fadeInUp-css'
-		href='https://demo.awaikenthemes.com/theme-medipro/wp-content/plugins/elementor/assets/lib/animations/styles/fadeInUp.min.css?ver=3.32.3'
+		href='./assets/css/e-animation-fadeInUp-css.css'
 		media='all' />
 	<link rel='stylesheet' id='widget-heading-css'
-		href='https://demo.awaikenthemes.com/theme-medipro/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.32.3'
+		href='./assets/css/widget-heading-css.css'
 		media='all' />
 	<link rel='stylesheet' id='mediaelement-css'
-		href='https://demo.awaikenthemes.com/theme-medipro/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17'
+		href='./assets/css/mediaelement-css.css'
 		media='all' />
 	<link rel='stylesheet' id='wp-mediaelement-css'
-		href='https://demo.awaikenthemes.com/theme-medipro/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.8.3'
+		href='./assets/css/wp-mediaelement-css.css'
 		media='all' />
 	<link rel='stylesheet' id='widget-image-css'
-		href='https://demo.awaikenthemes.com/theme-medipro/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.32.3'
+		href='./assets/css/widget-image-css.css'
 		media='all' />
 	<link rel='stylesheet' id='widget-icon-box-css'
-		href='https://demo.awaikenthemes.com/theme-medipro/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css?ver=3.32.3'
+		href='./assets/css/widget-icon-box-css.css'
 		media='all' />
 	<link rel='stylesheet' id='widget-icon-list-css'
-		href='https://demo.awaikenthemes.com/theme-medipro/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=3.32.3'
+		href='./assets/css/widget-icon-list-css.css'
 		media='all' />
 	<link rel='stylesheet' id='widget-counter-css'
-		href='https://demo.awaikenthemes.com/theme-medipro/wp-content/plugins/elementor/assets/css/widget-counter.min.css?ver=3.32.3'
+		href='./assets/css/widget-counter-css.css'
 		media='all' />
 	<link rel='stylesheet' id='swiper-css'
-		href='https://demo.awaikenthemes.com/theme-medipro/wp-content/plugins/elementor/assets/lib/swiper/v8/css/swiper.min.css?ver=8.4.5'
+		href='./assets/css/swiper-css.css'
 		media='all' />
 	<link rel='stylesheet' id='elementor-post-6-css'
-		href='https://demo.awaikenthemes.com/theme-medipro/wp-content/uploads/elementor/css/post-6.css?ver=1759388820'
+			href='./assets/css/elementor-post-6-css.css'
 		media='all' />
-	<link rel='stylesheet' id='elementor-post-6-css'
-		href='https://demo.awaikenthemes.com/theme-medipro/wp-content/uploads/elementor/css/post-44.css?ver=1759388820'
-		media='all' />
+
 
 
 
 	<link rel='stylesheet' id='elementor-post-8-css'
-		href='https://demo.awaikenthemes.com/theme-medipro/wp-content/uploads/elementor/css/post-8.css?ver=1759375673'
+		href='./assets/css/elementor-post-8-css.css'
 		media='all' />
 
-	<link rel='stylesheet' id='elementor-post-8-css'
+	<!-- <link rel='stylesheet' id='elementor-post-8-css'
 		href='https://demo.awaikenthemes.com/theme-medipro/wp-content/uploads/elementor/css/post-8.css?ver=1759375673'
-		media='all' />
+		media='all' /> -->
 	<link rel='stylesheet' id='elementor-post-624-css'
-		href='https://demo.awaikenthemes.com/theme-medipro/wp-content/uploads/elementor/css/post-624.css?ver=1759392106'
+		href='./assets/css/elementor-post-624-css.css'
 		media='all' />
 	<link rel='stylesheet' id='elementor-post-3430-css'
-		href='https://demo.awaikenthemes.com/theme-medipro/wp-content/uploads/elementor/css/post-3430.css?ver=1759375673'
+		href='./assets/css/elementor-post-3430-css.css'
 		media='all' />
 	<link rel='stylesheet' id='elementor-post-3789-css'
 		href='https://demo.awaikenthemes.com/theme-medipro/wp-content/uploads/elementor/css/post-3789.css?ver=1759375673'
