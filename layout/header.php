@@ -113,32 +113,32 @@
 		href='./assets/css/elementor-post-3430-css.css'
 		media='all' />
 	<link rel='stylesheet' id='elementor-post-3789-css'
-		href='https://demo.awaikenthemes.com/theme-medipro/wp-content/uploads/elementor/css/post-3789.css?ver=1759375673'
+		href='./assets/css/elementor-post-3789-css.css'
 		media='all' />
 
 	<link rel='stylesheet' id='ekit-widget-styles-css'
-		href='https://demo.awaikenthemes.com/theme-medipro/wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles.css?ver=3.7.3'
+		href='./assets/css/ekit-widget-styles-css.css'
 		media='all' />
 	<link rel='stylesheet' id='ekit-widget-styles-pro-css'
-		href='https://demo.awaikenthemes.com/theme-medipro/wp-content/plugins/elementskit/widgets/init/assets/css/widget-styles-pro.css?ver=4.1.0'
+		href='./assets/css/ekit-widget-styles-pro-css.css'
 		media='all' />
 	<link rel='stylesheet' id='ekit-responsive-css'
-		href='https://demo.awaikenthemes.com/theme-medipro/wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive.css?ver=3.7.3'
+		href='./assets/css/ekit-responsive-css.css'
 		media='all' />
 	<link rel='stylesheet' id='theme-font-Figtree-css'
-		href='https://fonts.googleapis.com/css2?family=Figtree%3Aital%2Cwght%400%2C300..900%3B1%2C300..900&#038;display=swap&#038;ver=1.0.3'
+			href='./assets/css/theme-font-Figtree-css.css'
 		media='all' />
 	<link rel='stylesheet' id='theme-css-variable-css'
-		href='https://demo.awaikenthemes.com/theme-medipro/wp-content/themes/medipro/assets/css/css-variable.css?ver=1.0.3'
+		href='./assets/css/theme-css-variable-css.css'
 		media='all' />
 	<link rel='stylesheet' id='fontawesome-6.4.0-css'
-		href='https://demo.awaikenthemes.com/theme-medipro/wp-content/themes/medipro/assets/css/all.min.css?ver=1.0.3'
+		href='./assets/css/fontawesome-6.4.0-css.css'
 		media='all' />
 	<link rel='stylesheet' id='bootstrap-5.3.2-css'
-		href='https://demo.awaikenthemes.com/theme-medipro/wp-content/themes/medipro/assets/css/bootstrap.min.css?ver=1.0.3'
+		href='./assets/css/bootstrap-5.3.2-css.css'
 		media='all' />
 	<link rel='stylesheet' id='theme-style-css'
-		href='https://demo.awaikenthemes.com/theme-medipro/wp-content/themes/medipro/style.css?ver=1.0.3' media='all' />
+		href='./assets/css/theme-style-css.css' media='all' />
 	<link rel='stylesheet' id='elementor-gf-local-figtree-css'
 		href='https://demo.awaikenthemes.com/theme-medipro/wp-content/uploads/elementor/google-fonts/css/figtree.css?ver=1744844154'
 		media='all' />
