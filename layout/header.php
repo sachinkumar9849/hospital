@@ -171,19 +171,18 @@
 	
 
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+	
+
+	
 	<link rel='stylesheet' id='fontawesome-6.4.0-css'
-		href='https://demo.awaikenthemes.com/theme-medipro/wp-content/themes/medipro/assets/css/all.min.css?ver=1.0.3'
+		href='./assets/css/fontawesome-6.4.0-css1.css'
 		media='all' />
-	<link rel='stylesheet' id='elementskit-icons-css'
-		href='https://yourwebsite.com/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticons.css?ver=2.8.9'
-		media='all' />
-	<link rel="stylesheet"
-		href="https://cdn.jsdelivr.net/npm/elementskit-lite@2.8.9/modules/elementskit-icon-pack/assets/css/ekiticons.css" />
+
 
 	<meta name="generator"
 		content="Elementor 3.32.3; features: additional_custom_breakpoints; settings: css_print_method-external, google_font-enabled, font_display-swap">
 	<script
-		type="text/javascript">var elementskit_module_parallax_url = "https://demo.awaikenthemes.com/theme-medipro/wp-content/plugins/elementskit/modules/parallax/";</script>
+		type="text/javascript">var elementskit_module_parallax_url = "";</script>
 	<style>
 		.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload),
 		.e-con.e-parent:nth-of-type(n+4):not(.e-lazyloaded):not(.e-no-lazyload) * {
@@ -225,12 +224,7 @@
 <body
 	class="home wp-singular page-template page-template-elementor_header_footer page page-id-6 wp-custom-logo wp-theme-medipro tt-magic-cursor elementor-default elementor-template-full-width elementor-kit-8 elementor-page elementor-page-6">
 
-	<!-- <div class="preloader">
-		<div class="loading-container">
-			<div class="loading"></div>
-			<div id="loading-icon"><img src="./assets/images/logo.png" alt=""></div>
-		</div>
-	</div> -->
+
 	<div id="magic-cursor">
 		<div id="ball"></div>
 	</div>
