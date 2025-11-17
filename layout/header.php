@@ -155,20 +155,20 @@
 		href='./assets/css/2.css'
 		media='all' />
 		
-		<script src="https://demo.awaikenthemes.com/theme-medipro/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
+		<script src="./assets/js/3.js"
 		id="jquery-core-js"></script>
-	<script src="https://demo.awaikenthemes.com/theme-medipro/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"
-		id="jquery-migrate-js"></script>
-	<link rel="https://api.w.org/" href="/theme-medipro/wp-json/" />
-	<link rel="alternate" title="JSON" type="application/json" href="/theme-medipro/wp-json/wp/v2/pages/6" />
-	<link rel="EditURI" type="application/rsd+xml" title="RSD" href="/theme-medipro/xmlrpc.php?rsd" />
 
-	<link rel="canonical" href="/theme-medipro/" />
-	<link rel='shortlink' href='https://demo.awaikenthemes.com/theme-medipro/' />
-	<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed"
-		href="/theme-medipro/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdemo.awaikenthemes.com%2Ftheme-medipro%2F" />
-	<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed"
-		href="/theme-medipro/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fdemo.awaikenthemes.com%2Ftheme-medipro%2F&#038;format=xml" />
+	<script src="./assets/js/4.js"
+		id="jquery-migrate-js"></script>
+
+
+
+
+
+
+
+	
+	
 
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
 	<link rel='stylesheet' id='fontawesome-6.4.0-css'

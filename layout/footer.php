@@ -382,19 +382,7 @@
 <script src="https://demo.awaikenthemes.com/assets/js/theme-panel.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
 
-<!-- <script>
-		var swiper = new Swiper(".mySwiper", {
-			navigation: {
-				nextEl: ".swiper-button-next",
-				prevEl: ".swiper-button-prev",
-			},
-			autoplay: {
-				delay: 3000, 
-				disableOnInteraction: false, 
-			},
-			loop: true, 
-		});
-	</script> -->
+
 
 <script>
 	const swiper = new Swiper('.mySwiper', {
