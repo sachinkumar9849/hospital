@@ -270,7 +270,7 @@
 		document.addEventListener(event, lazyloadRunObserver);
 	});
 </script>
-<link rel='stylesheet' id='elementor-post-3430-css'
+<!-- <link rel='stylesheet' id='elementor-post-3430-css'
 	href='https://demo.awaikenthemes.com/theme-medipro/wp-content/uploads/elementor/css/post-3430.css?ver=1759375673'
 	media='all' />
 <link rel='stylesheet' id='elementor-post-3789-css'
@@ -287,17 +287,23 @@
 	media='all' />
 <link rel='stylesheet' id='elementor-icons-fa-brands-css'
 	href='https://demo.awaikenthemes.com/theme-medipro/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3'
-	media='all' />
-<script src="https://demo.awaikenthemes.com/theme-medipro/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6"
+	media='all' /> -->
+
+
+<script src="./assets/js/wp-hooks-js.js"
 	id="wp-hooks-js"></script>
-<script src="https://demo.awaikenthemes.com/theme-medipro/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6"
+
+<script src="./assets/js/wp-i18n-js.js"
 	id="wp-i18n-js"></script>
+
 <script id="wp-i18n-js-after">
 	wp.i18n.setLocaleData({ 'text direction\u0004ltr': ['ltr'] });
 </script>
+
 <script
-	src="https://demo.awaikenthemes.com/theme-medipro/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1.2"
+	src="./assets/js/swv-js.js"
 	id="swv-js"></script>
+
 <script id="contact-form-7-js-before">
 	var wpcf7 = {
 		"api": {
@@ -307,25 +313,38 @@
 		"cached": 1
 	};
 </script>
+
 <script
-	src="https://demo.awaikenthemes.com/theme-medipro/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.2"
+	src="./assets/js/contact-form-7-js.js"
 	id="contact-form-7-js"></script>
-<script src="https://demo.awaikenthemes.com/theme-medipro/wp-content/themes/medipro/assets/js/SmoothScroll.js?ver=1.0.3"
+
+<script src="./assets/js/SmoothScroll-js.js"
 	id="SmoothScroll-js"></script>
-<script src="https://demo.awaikenthemes.com/theme-medipro/wp-content/themes/medipro/assets/js/gsap.min.js?ver=1.0.3"
+
+<script src="./assets/js/gsap-js.js"
 	id="gsap-js"></script>
-<script src="https://demo.awaikenthemes.com/theme-medipro/wp-content/themes/medipro/assets/js/magiccursor.js?ver=1.0.3"
+
+<script src="./assets/js/magiccursor-js.js"
 	id="magiccursor-js"></script>
-<script src="https://demo.awaikenthemes.com/theme-medipro/wp-content/themes/medipro/assets/js/SplitText.js?ver=1.0.3"
+
+	
+
+<script src="./assets/js/SplitText-js.js"
 	id="SplitText-js"></script>
+
 <script
-	src="https://demo.awaikenthemes.com/theme-medipro/wp-content/themes/medipro/assets/js/ScrollTrigger.min.js?ver=1.0.3"
+	src="./assets/js/ScrollTrigger-js.js"
 	id="ScrollTrigger-js"></script>
-<script src="https://demo.awaikenthemes.com/theme-medipro/wp-content/themes/medipro/assets/js/function.js?ver=1.0.3"
+
+	
+
+<script src="./assets/js/theme-js-js.js"
 	id="theme-js-js"></script>
+
 <script
-	src="https://demo.awaikenthemes.com/theme-medipro/wp-content/plugins/elementskit-lite/libs/framework/assets/js/frontend-script.js?ver=3.7.3"
+	src="./assets/js/elementskit-framework-js-frontend-js.js"
 	id="elementskit-framework-js-frontend-js"></script>
+
 <script id="elementskit-framework-js-frontend-js-after">
 	var elementskit = {
 		resturl: 'https://demo.awaikenthemes.com/theme-medipro/wp-json/elementskit/v1/',
@@ -333,54 +352,78 @@
 
 
 </script>
+
 <script
-	src="https://demo.awaikenthemes.com/theme-medipro/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widget-scripts.js?ver=3.7.3"
+	src="./assets/js/ekit-widget-scripts-js.js"
 	id="ekit-widget-scripts-js"></script>
+
+	
 <script
-	src="https://demo.awaikenthemes.com/theme-medipro/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.32.3"
+	src="./assets/js/elementor-webpack-runtime-js.js"
 	id="elementor-webpack-runtime-js"></script>
+
 <script
-	src="https://demo.awaikenthemes.com/theme-medipro/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.32.3"
+	src="./assets/js/elementor-frontend-modules-js.js"
 	id="elementor-frontend-modules-js"></script>
-<script src="https://demo.awaikenthemes.com/theme-medipro/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3"
+	
+
+<script src="./assets/js/jquery-ui-core-js.js"
 	id="jquery-ui-core-js"></script>
+
 <script id="elementor-frontend-js-before">
 	var elementorFrontendConfig = { "environmentMode": { "edit": false, "wpPreview": false, "isScriptDebug": false }, "i18n": { "shareOnFacebook": "Share on Facebook", "shareOnTwitter": "Share on Twitter", "pinIt": "Pin it", "download": "Download", "downloadImage": "Download image", "fullscreen": "Fullscreen", "zoom": "Zoom", "share": "Share", "playVideo": "Play Video", "previous": "Previous", "next": "Next", "close": "Close", "a11yCarouselPrevSlideMessage": "Previous slide", "a11yCarouselNextSlideMessage": "Next slide", "a11yCarouselFirstSlideMessage": "This is the first slide", "a11yCarouselLastSlideMessage": "This is the last slide", "a11yCarouselPaginationBulletMessage": "Go to slide" }, "is_rtl": false, "breakpoints": { "xs": 0, "sm": 480, "md": 768, "lg": 1025, "xl": 1440, "xxl": 1600 }, "responsive": { "breakpoints": { "mobile": { "label": "Mobile Portrait", "value": 767, "default_value": 767, "direction": "max", "is_enabled": true }, "mobile_extra": { "label": "Mobile Landscape", "value": 880, "default_value": 880, "direction": "max", "is_enabled": false }, "tablet": { "label": "Tablet Portrait", "value": 1024, "default_value": 1024, "direction": "max", "is_enabled": true }, "tablet_extra": { "label": "Tablet Landscape", "value": 1200, "default_value": 1200, "direction": "max", "is_enabled": false }, "laptop": { "label": "Laptop", "value": 1366, "default_value": 1366, "direction": "max", "is_enabled": false }, "widescreen": { "label": "Widescreen", "value": 2400, "default_value": 2400, "direction": "min", "is_enabled": false } }, "hasCustomBreakpoints": false }, "version": "3.32.3", "is_static": false, "experimentalFeatures": { "additional_custom_breakpoints": true, "container": true, "nested-elements": true, "home_screen": true, "global_classes_should_enforce_capabilities": true, "e_variables": true, "cloud-library": true, "e_opt_in_v4_page": true, "import-export-customization": true }, "urls": { "assets": "https:\/\/demo.awaikenthemes.com\/theme-medipro\/wp-content\/plugins\/elementor\/assets\/", "ajaxurl": "https:\/\/demo.awaikenthemes.com\/theme-medipro\/wp-admin\/admin-ajax.php", "uploadUrl": "https:\/\/demo.awaikenthemes.com\/theme-medipro\/wp-content\/uploads" }, "nonces": { "floatingButtonsClickTracking": "a0f8274e41" }, "swiperClass": "swiper", "settings": { "page": [], "editorPreferences": [] }, "kit": { "body_background_background": "classic", "active_breakpoints": ["viewport_mobile", "viewport_tablet"], "global_image_lightbox": "yes", "lightbox_enable_counter": "yes", "lightbox_enable_fullscreen": "yes", "lightbox_enable_zoom": "yes", "lightbox_enable_share": "yes", "lightbox_title_src": "title", "lightbox_description_src": "description" }, "post": { "id": 6, "title": "MediPro%20%E2%80%93%20Hospital%20WordPress%20Theme", "excerpt": "", "featuredImage": false } };
 </script>
+
 <script
-	src="https://demo.awaikenthemes.com/theme-medipro/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.32.3"
+	 src="./assets/js/elementor-frontend-js.js"
 	id="elementor-frontend-js"></script>
+
 <script id="mediaelement-core-js-before">
 	var mejsL10n = { "language": "en", "strings": { "mejs.download-file": "Download File", "mejs.install-flash": "You are using a browser that does not have Flash player enabled or installed. Please turn on your Flash player plugin or download the latest version from https:\/\/get.adobe.com\/flashplayer\/", "mejs.fullscreen": "Fullscreen", "mejs.play": "Play", "mejs.pause": "Pause", "mejs.time-slider": "Time Slider", "mejs.time-help-text": "Use Left\/Right Arrow keys to advance one second, Up\/Down arrows to advance ten seconds.", "mejs.live-broadcast": "Live Broadcast", "mejs.volume-help-text": "Use Up\/Down Arrow keys to increase or decrease volume.", "mejs.unmute": "Unmute", "mejs.mute": "Mute", "mejs.volume-slider": "Volume Slider", "mejs.video-player": "Video Player", "mejs.audio-player": "Audio Player", "mejs.captions-subtitles": "Captions\/Subtitles", "mejs.captions-chapters": "Chapters", "mejs.none": "None", "mejs.afrikaans": "Afrikaans", "mejs.albanian": "Albanian", "mejs.arabic": "Arabic", "mejs.belarusian": "Belarusian", "mejs.bulgarian": "Bulgarian", "mejs.catalan": "Catalan", "mejs.chinese": "Chinese", "mejs.chinese-simplified": "Chinese (Simplified)", "mejs.chinese-traditional": "Chinese (Traditional)", "mejs.croatian": "Croatian", "mejs.czech": "Czech", "mejs.danish": "Danish", "mejs.dutch": "Dutch", "mejs.english": "English", "mejs.estonian": "Estonian", "mejs.filipino": "Filipino", "mejs.finnish": "Finnish", "mejs.french": "French", "mejs.galician": "Galician", "mejs.german": "German", "mejs.greek": "Greek", "mejs.haitian-creole": "Haitian Creole", "mejs.hebrew": "Hebrew", "mejs.hindi": "Hindi", "mejs.hungarian": "Hungarian", "mejs.icelandic": "Icelandic", "mejs.indonesian": "Indonesian", "mejs.irish": "Irish", "mejs.italian": "Italian", "mejs.japanese": "Japanese", "mejs.korean": "Korean", "mejs.latvian": "Latvian", "mejs.lithuanian": "Lithuanian", "mejs.macedonian": "Macedonian", "mejs.malay": "Malay", "mejs.maltese": "Maltese", "mejs.norwegian": "Norwegian", "mejs.persian": "Persian", "mejs.polish": "Polish", "mejs.portuguese": "Portuguese", "mejs.romanian": "Romanian", "mejs.russian": "Russian", "mejs.serbian": "Serbian", "mejs.slovak": "Slovak", "mejs.slovenian": "Slovenian", "mejs.spanish": "Spanish", "mejs.swahili": "Swahili", "mejs.swedish": "Swedish", "mejs.tagalog": "Tagalog", "mejs.thai": "Thai", "mejs.turkish": "Turkish", "mejs.ukrainian": "Ukrainian", "mejs.vietnamese": "Vietnamese", "mejs.welsh": "Welsh", "mejs.yiddish": "Yiddish" } };
 </script>
+
+
 <script
-	src="https://demo.awaikenthemes.com/theme-medipro/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.17"
+	 src="./assets/js/mediaelement-core-js.js"
 	id="mediaelement-core-js"></script>
+
+	
+
 <script
-	src="https://demo.awaikenthemes.com/theme-medipro/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=6.8.3"
+	 src="./assets/js/mediaelement-migrate-js.js"
 	id="mediaelement-migrate-js"></script>
+
 <script id="mediaelement-js-extra">
 	var _wpmejsSettings = { "pluginPath": "\/theme-medipro\/wp-includes\/js\/mediaelement\/", "classPrefix": "mejs-", "stretching": "responsive", "audioShortcodeLibrary": "mediaelement", "videoShortcodeLibrary": "mediaelement" };
 </script>
-<script src="https://demo.awaikenthemes.com/theme-medipro/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=6.8.3"
+
+
+<script src="./assets/js/wp-mediaelement-js.js"
 	id="wp-mediaelement-js"></script>
+
+	
 <script
-	src="https://demo.awaikenthemes.com/theme-medipro/wp-content/plugins/elementor/assets/lib/jquery-numerator/jquery-numerator.min.js?ver=0.2.1"
+	src="./assets/js/jquery-numerator-js.js"
 	id="jquery-numerator-js"></script>
+
+	
 <script
-	src="https://demo.awaikenthemes.com/theme-medipro/wp-content/plugins/elementskit-lite/widgets/init/assets/js/animate-circle.min.js?ver=3.7.3"
+	src="./assets/js/animate-circle-js.js"
 	id="animate-circle-js"></script>
+
 <script id="elementskit-elementor-js-extra">
 	var ekit_config = { "ajaxurl": "https:\/\/demo.awaikenthemes.com\/theme-medipro\/wp-admin\/admin-ajax.php", "nonce": "b3fe1a5cca" };
 </script>
+
 <script
-	src="https://demo.awaikenthemes.com/theme-medipro/wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementor.js?ver=3.7.3"
+	src="./assets/js/elementskit-elementor-js.js"
 	id="elementskit-elementor-js"></script>
+	
 <script
-	src="https://demo.awaikenthemes.com/theme-medipro/wp-content/plugins/elementskit/widgets/init/assets/js/elementor.js?ver=4.1.0"
+	src="./assets/js/elementskit-elementor-pro-js.js"
 	id="elementskit-elementor-pro-js"></script>
-<script src="https://demo.awaikenthemes.com/assets/js/theme-panel.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+<script src="./assets/js/theme-panel.js"></script>
+<script src="./assets/js/swiper-bundle.min.js"></script>
 
 
 
